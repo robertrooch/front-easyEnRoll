@@ -1,0 +1,14 @@
+/home/roberto/Universidad/easy/bin/Debug/net8.0/easy
+/home/roberto/Universidad/easy/bin/Debug/net8.0/easy.deps.json
+/home/roberto/Universidad/easy/bin/Debug/net8.0/easy.runtimeconfig.json
+/home/roberto/Universidad/easy/bin/Debug/net8.0/easy.dll
+/home/roberto/Universidad/easy/bin/Debug/net8.0/easy.pdb
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.GeneratedMSBuildEditorConfig.editorconfig
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.AssemblyInfoInputs.cache
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.AssemblyInfo.cs
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.csproj.CoreCompileInputs.cache
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.dll
+/home/roberto/Universidad/easy/obj/Debug/net8.0/refint/easy.dll
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.pdb
+/home/roberto/Universidad/easy/obj/Debug/net8.0/easy.genruntimeconfig.cache
+/home/roberto/Universidad/easy/obj/Debug/net8.0/ref/easy.dll
